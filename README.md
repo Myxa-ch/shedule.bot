@@ -1,1 +1,1 @@
-# shedule.bot
+# schedule.bot
